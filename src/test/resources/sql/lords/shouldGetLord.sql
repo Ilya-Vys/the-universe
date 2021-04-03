@@ -1,0 +1,1 @@
+INSERT INTO LORDS (lord_id, lord_name, lord_age) VALUES (333,'Lord333', 333);

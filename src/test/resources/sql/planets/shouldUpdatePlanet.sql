@@ -1,0 +1,1 @@
+INSERT INTO PLANETS (planet_id, planet_name) VALUES (222,'Planet222');
